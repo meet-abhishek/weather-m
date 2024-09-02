@@ -1,10 +1,10 @@
 # Weather
 
-### [Weather App](https://meet-abhishek.github.io/weather)
+### [Weather App](https://meet-abhishek.github.io/weather-m)
 
-[WEATHER APP](https://meet-abhishek.github.io/weather)
+[WEATHER APP](https://meet-abhishek.github.io/weather-m)
 
-[WEATHER APP](https://meet-abhishek.github.io/weather)
+[WEATHER APP](https://meet-abhishek.github.io/weather-m)
 
 > This is a blockquote
 
